@@ -1,0 +1,10 @@
+a = 10
+c = 10
+d = 10.0
+print(a >  c)
+print(a >= c)
+print(a <= d)
+print(a == c)
+print(a == d)
+print(a != c)
+print(a != d)
